@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\MasterDetail\\MasterDetail\\MasterDetail\\Server\\wwwroot\\Images\\9c600f23-3beb-4b48-a9c3-9d5d4bad16e4.png",
+      "PackagePath": "staticwebassets\\Images\\9c600f23-3beb-4b48-a9c3-9d5d4bad16e4.png"
+    },
+    {
+      "Id": "D:\\Projects\\MasterDetail\\MasterDetail\\MasterDetail\\Server\\wwwroot\\Images\\ca4021e0-080c-4a86-9328-c40347be8bfa.png",
+      "PackagePath": "staticwebassets\\Images\\ca4021e0-080c-4a86-9328-c40347be8bfa.png"
+    },
+    {
+      "Id": "D:\\Projects\\MasterDetail\\MasterDetail\\MasterDetail\\Server\\wwwroot\\Images\\default.jpg",
+      "PackagePath": "staticwebassets\\Images\\default.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MasterDetail\\MasterDetail\\MasterDetail\\Server\\wwwroot\\Images\\ec00f3ad-3da8-42b1-a746-6d87b449bb31.png",
+      "PackagePath": "staticwebassets\\Images\\ec00f3ad-3da8-42b1-a746-6d87b449bb31.png"
+    },
+    {
+      "Id": "D:\\Projects\\MasterDetail\\MasterDetail\\MasterDetail\\Server\\wwwroot\\Images\\loading.gif",
+      "PackagePath": "staticwebassets\\Images\\loading.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MasterDetail.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MasterDetail.Server.props",
+      "PackagePath": "build\\MasterDetail.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MasterDetail.Server.props",
+      "PackagePath": "buildMultiTargeting\\MasterDetail.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MasterDetail.Server.props",
+      "PackagePath": "buildTransitive\\MasterDetail.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
